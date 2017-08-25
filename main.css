@@ -1,3 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
 .container{
   text-align: center;
+  background-color: #bddddc;
+  /*background-image: url(http://www.aucklandcity.govt.nz/dbtw-wpd/virt-exhib/realgold/Images/treaty-waitangi.jpg);*/
+  padding: 150px, 250px, 100px, 250px;
+  height: 300%;
+}
+
+.row {
+}
+
+body {
+  /*background-image: url(http://www.karamaha.com/wp-content/uploads/2015/12/Magician-Ta-Moko-Maori-Tattoo-Whakairo-Maori-Carvings-Paintings-Maori-art-in-Waitomo-New-Zealand.jpg);
+  background-position: center;
+  background-repeat: no-repeat;*/
+}
+
+#quoteBoard {
 }
